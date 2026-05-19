@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**Mehersaiabhiram/Mehersaiabhiram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Computer Science Engineering Student by day ☼ and Open Source Contributor by night ☾
 
-Here are some ideas to get you started:
+Computer Science Engineering Student at [Ramachandra College of Engineering]();<br>
+Based in Eluru, India;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.python, .sql, .html, .css, .javascript, .github, .googlecolab`
+- 🌍 I'm mostly active within the **Python Community**
+- 💬 `ping` me about **Machine Learning, Data Analysis, Cloud Computing**
+- 📫 How to reach me: [meherabhiram85@gmail.com](mailto:meherabhiram85@gmail.com)
+- ⚡ Fun fact: Participant in national level hackathons and technical events.
+
+---
+
